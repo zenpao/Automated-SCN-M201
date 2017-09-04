@@ -22,3 +22,4 @@ primary interop assembly. The application can be run with its .EXE shortcut, hen
 SCN-M201 folder\bin\Debug\SCN-M201.exe .
 
 Thank you for using SCN-M201.
+
